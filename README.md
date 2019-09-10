@@ -1,5 +1,5 @@
 # Priors-for-safe-exploration
-Implementation of "Learning Transferable Priors for Safe Exploration in Reinforcement Learning"
+Implementation of "Learning Transferable Domain Priors for Safe Exploration in Reinforcement Learning"
 
 ### Prerequisites
 
