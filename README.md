@@ -7,7 +7,7 @@ numpy and matplotlib
 
 ## Running the tests
 
-Run tabularQlearning.py for online implementation
+Run tabularQlearning.py for online implementation,
 Run priors_tabular.py for offline implementation
 
 ## Authors
